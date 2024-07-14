@@ -50,3 +50,5 @@ También configuré solicitudes adicionales para obtener todas las reservas, obt
 
 # Conclusión:
 Este proyecto me permitió aplicar conocimientos clave sobre la construcción de aplicaciones backend con Node.js, la utilización de operaciones CRUD y la documentación de APIs. Además, desplegar la aplicación en Render me brindó una experiencia práctica sobre cómo poner en producción un servicio web.
+
+# ¡Muchas Gracias!
