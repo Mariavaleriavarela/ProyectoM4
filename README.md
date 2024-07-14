@@ -11,8 +11,8 @@ Desarrollé este proyecto en Visual Studio Code. A continuación, detallo los pa
 El servidor se ejecuta en http://localhost:3000.
 
 # Postman:
-En Postman, creé una colección llamada API de Reservas Hoteleras.
-Añadí una solicitud POST para crear una nueva reserva con los siguientes detalles:
+En Postman, creé una colección llamada API de Reservas Hoteleras. Añadí una solicitud POST para crear una nueva reserva con los siguientes detalles:
+
 Método: POST
 URL: http://localhost:3000/api/reservas
 Body: Seleccioné raw y JSON y utilicé el siguiente contenido: 
